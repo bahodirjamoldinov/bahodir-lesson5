@@ -1,0 +1,193 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.bolim1 {
+  height: 1064px;
+  border: 2px solid #F5F5F5;
+  background-color: #F5F5F5;
+}
+
+
+.b1 {
+  font-size: 40px;
+  font-weight: bold;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  text-align: center;
+  margin-top: 94px;
+}
+
+.bolim1 p {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  text-align: center;
+  margin-top: 28px;
+
+}
+
+.img {
+  text-align: center;
+  margin-top: 90px;
+}
+
+.btn {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  height: 40px;
+  width: 189px;
+  color: white;
+  background: #6F2CFF;
+  border-radius: 30px;
+  margin-left: 22px;
+
+}
+
+.b-btn {
+  text-align: center;
+  margin-top: 70px;
+}
+
+.bolim2 {
+  height: 751px;
+  border: 2px solid white;
+}
+
+.b2 {
+  font-size: 40px;
+  font-weight: bold;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  text-align: center;
+  margin-top: 88px;
+}
+
+.b3 {
+  width: 1050px;
+  height: 448px;
+  margin: 0 auto;
+  margin-top: 70px;
+}
+
+.b3-1 {
+  width: 323px;
+  height: 446px;
+  display: inline-block;
+  margin: 0px 10px 0px 10px;
+  
+
+
+}
+
+.b3-1-1 {
+  width: 319px;
+  height: 205px;
+  border: 2px solid white;
+}
+
+.b3-1-2 {
+  width: 319px;
+  height: 233px;
+  border: 2px solid white;
+  margin: 0px auto;
+  background-color: #F5F5F5;
+  border-radius: 0px 0px 7px 7px;
+  box-shadow: 0px 2px 4px rgba(192, 192, 192, 0.5);
+
+}
+
+.b3-1-2-img {
+  margin: 25px 85px;
+}
+
+.b3-1-2-text {
+  width: 185px;
+  height: 88px;
+  font-size: 18px;
+  line-height: 22px;
+  color: #6F2CFF;
+  text-align: center;
+  margin: 0px auto;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.bolim3 {
+  height: 950px;
+  /* border: 2px solid red; */
+  background-color:#F5F5F5;
+  /* text-align: center; */
+}
+
+.bolim3 h1{
+  display: inline-block;
+  width: 100%;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   margin-top: 64px;
+}
+
+.bolim3 p{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  text-align: center;
+  margin-top: 12px;
+}
+
+.bolim3-3{
+  width: 1050px;
+  height: 687px;
+  /* border: 2px solid red; */
+  margin: 43px auto;
+  /* text-align: center; */
+}
+
+.bolim3-3-1{
+  width: 492px;
+  height: 199px;
+  /* border: 2px solid red; */
+  display: inline-block;
+  margin: 10px 15px 20px  10px;
+  background-color: #17002E;
+  border-radius: 10px;
+  
+}
+
+.bolim3-3-1 img{
+  /* border: 2px solid red; */
+  margin: 30px 32px 18px;
+  display: inline-block;
+}
+.tt{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+  transform: translate(-5px,-33px);
+  display: inline-block;
+  height: 25px;
+  /* border: 2px solid red; */
+font-size: 18px;
+line-height: 25px;
+color: #F5F5F5;
+}
+.pp{
+  transform: translate(32px,-10px);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  Width:407.14px;
+  Height:44px;
+font-size: 15px;
+color: #F5F5F5;
+}
+
+.ppp{
+  transform: translate(32px,-20px);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  Width:407.14px;
+  Height:44px;
+font-size: 15px;
+color: #F5F5F5;
+}
+.aa{
+  Width:383px;
+height: 1px;
+background: #F5F5F5;
+transform: translate(32px,9.50px);
+}
+ 
+ 
